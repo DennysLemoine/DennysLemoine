@@ -1,4 +1,4 @@
-![Alt Text](https://media0.giphy.com/media/ZAaaCK5RhUWxG/giphy.gif?cid=ecf05e47eqcl9bqssr272l1qxvmsgb34yjnshxp2qt62xsmk&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+![Alt Text](https://media4.giphy.com/media/yOWtXoPVg0eU7thbz7/giphy.gif?cid=ecf05e475ybo6bnjt17zb9ukdzd0dhay6jztxeso96q7i4ji&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 # Bonjour, ravis de te voir ici 😊
 - 🔭 I’m currently working on ...
@@ -11,4 +11,6 @@
 - ⚡ Fun fact: ...
 -->
 
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href="https://www.linkedin.com/in/dennys-lemoine-b4873313b/">
+  <img align="left" src="https://raw.githubusercontent.com/DennysLemoine/DennysLemoine/master/images/linkedin.png" alt="icon | LinkedIn" width="21px"/>
+</a>
