@@ -1,10 +1,6 @@
-### Hi there 👋
+![Alt Text](https://media0.giphy.com/media/ZAaaCK5RhUWxG/giphy.gif?cid=ecf05e47eqcl9bqssr272l1qxvmsgb34yjnshxp2qt62xsmk&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 
-<!--
-**DennysLemoine/DennysLemoine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+# Bonjour, ravis de te voir ici 😊
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
