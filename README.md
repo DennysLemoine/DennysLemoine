@@ -24,7 +24,7 @@ J'ai découvert une attirance toute particulière pour React durant ma formation
 - 💪🏼 Motivé
 - 👨🏼‍🤝‍👩🏼 Esprit d'équipe
 - 🤲🏼 Aime le partage
-- 🏃🏼 Autonomne
+- 🏃🏼 Autonome
 - 👌🏼 Fiable
 - ❗ Pensée critique
 - 🗃️ Organisé
