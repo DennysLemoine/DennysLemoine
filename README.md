@@ -14,7 +14,8 @@
 
 J'ai fait des études dans la 3D pendant 3 ans, et pendant ces mêmes études, quelques amis m'ont fait découvrir le monde du développement ! Curieux, j'ai alors décidé de me lancer dans une nouvelle aventure pour en découvrir encore plus !</br>
 Je souhaite me spécialisé dans le Front-end pour garder cette fibre créative qui me fait toujours autant vibrer 🎨 !</br>
-J'ai découvert une attirance toute particulière pour React durant ma formation de développeur chez Openclassrooms 🔥 !
+J'ai découvert une attirance toute particulière pour React durant ma formation de développeur chez Openclassrooms 🔥 !</br>
+<strong>Je suis actuellement à la recherche d'une entreprise pour mon alternance de 2 ans en tant que Développeur d'application Javascript React, avec Openclassrooms 🚀 !</strong>
 
 # 📢 Professionnellement :
 
@@ -36,9 +37,17 @@ J'ai découvert une attirance toute particulière pour React durant ma formation
 
 # 🫱🏼‍🫲🏾 On peut se connecter si tu veux :
 
-<a href="https://www.linkedin.com/in/dennys-lemoine-b4873313b/">
-  <img align="left" src="https://raw.githubusercontent.com/DennysLemoine/DennysLemoine/master/images/linkedin.png" alt="icon | LinkedIn" width="21px"/>
-</a>
-<a href="">
-  <img align="left" src="https://raw.githubusercontent.com/DennysLemoine/DennysLemoine/master/images/work-in-progress.png" alt="icon | LinkedIn" width="21px"/>
-</a>
+<ul>
+  <li>
+    <a href="https://www.linkedin.com/in/dennys-lemoine-b4873313b/">
+      <img align="left" src="https://raw.githubusercontent.com/DennysLemoine/DennysLemoine/master/images/linkedin.png" alt="icon | LinkedIn" width="25px"/>
+      LinkedIn
+    </a>
+  </li>
+  <li>
+    <a href="">
+      <img align="left" src="https://raw.githubusercontent.com/DennysLemoine/DennysLemoine/master/images/WIP.png" alt="icon | LinkedIn" width="30px"/>
+      (Portefolio en cours de création)
+    </a>
+  </li>
+</ul>
