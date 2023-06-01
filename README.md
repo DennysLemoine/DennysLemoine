@@ -42,13 +42,13 @@ J'ai découvert une attirance toute particulière pour React durant ma formation
   <li>
     <a href="https://www.linkedin.com/in/dennys-lemoine-b4873313b/">
       <img align="left" src="https://raw.githubusercontent.com/DennysLemoine/DennysLemoine/master/images/linkedin.png" alt="icon | LinkedIn" width="22px"/>
-      LinkedIn
+        LinkedIn
     </a>
   </li>
   <li>
-    <a href="">
-      <img align="left" src="https://raw.githubusercontent.com/DennysLemoine/DennysLemoine/master/images/WIP.png" alt="icon | LinkedIn" width="30px"/>
-      (Portefolio en cours de création)
+    <a href="https://portefolio-dennyslemoine.vercel.app/">
+      <img align="left" src="https://raw.githubusercontent.com/DennysLemoine/DennysLemoine/master/images/WIP.png" alt="icon | Portefolio" width="30px"/>
+      Portefolio
     </a>
   </li>
 </ul>
