@@ -47,7 +47,7 @@ J'ai découvert une attirance toute particulière pour React durant ma formation
   </li>
   <li>
     <a href="https://portefolio-dennyslemoine.vercel.app/">
-      <img align="left" src="https://raw.githubusercontent.com/DennysLemoine/DennysLemoine/master/images/web.png" alt="icon | Portefolio" width="30px"/>
+      <img align="left" src="https://raw.githubusercontent.com/DennysLemoine/DennysLemoine/master/images/web.png" alt="icon | Portefolio" width="22px"/>
       Portefolio
     </a>
   </li>
